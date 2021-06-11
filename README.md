@@ -8,6 +8,8 @@
 
 <img src="https://github.com/Ben-Hampson/hidden/blob/main/toolkit-badges/python.png?raw=true" height=50> <img src="https://github.com/Ben-Hampson/hidden/blob/main/toolkit-badges/django.png?raw=true" height=50> <img src="https://github.com/Ben-Hampson/hidden/blob/main/toolkit-badges/html5.png?raw=true" height=50> <img src="https://github.com/Ben-Hampson/hidden/blob/main/toolkit-badges/css.png?raw=true" height=50> <img src="https://github.com/Ben-Hampson/hidden/blob/main/toolkit-badges/bash.png?raw=true" height=50> <img src="https://github.com/Ben-Hampson/hidden/blob/main/toolkit-badges/vscode.png?raw=true" height=50> <img src="https://github.com/Ben-Hampson/hidden/blob/main/toolkit-badges/git.png?raw=true" height=50>
 
+<img src="icons/python.svg" height=50>
+
 🐦 [@BHampson](https://twitter.com/BHampson)\
 📫 [Contact Me](http://www.benhampson.co.uk)
 
