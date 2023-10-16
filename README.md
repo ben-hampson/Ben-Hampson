@@ -1,8 +1,10 @@
 # 👋 Hello, I'm Ben! 
 
-🧰 DevOps Engineer
-☁️ Azure Cloud Engineer
-🐍 Python Backend Engineer
+🧰 DevOps Engineer\
+☁️ Azure Cloud Engineer\
+🐍 Python Backend Engineer
+
+–––
 
 📍 [BenHampson.co.uk](https://benhampson.co.uk)\
 👔 [LinkedIn](https://www.linkedin.com/in/ben-hampson/)
